@@ -67,7 +67,7 @@ const Hero = () => {
 
           <p className="text-gray-300 leading-relaxed max-w-2xl text-lg">
             Passionate <strong>Java Full Stack Developer</strong> with over 2
-            Year of expertise in in designing, developing, and maintaining
+            Year of expertise in designing, developing, and maintaining
             scalable applications. Skilled in building robust REST APIs using{" "}
             <strong>Java, Spring Boot, React,</strong> and{" "}
             <strong>Microservices</strong>. Skilled in <strong>frontend</strong>{" "}
@@ -80,7 +80,8 @@ const Hero = () => {
             {[
               {
                 icon: Linkedin,
-                href: "https://linkedin.com/in/yourlinkedin",
+                href: "linkedin.com/in/ravi-kumar-224671356
+",
                 color: "group-hover:text-blue-400",
               },
               {
